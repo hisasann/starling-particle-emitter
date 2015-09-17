@@ -19,7 +19,7 @@ this.showParticle("Particle1", 400, 400);
 
 You want to hide the particle
 
-```
+```as3
 this.hideParticle(0);
 ```
 
